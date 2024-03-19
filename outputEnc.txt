@@ -1,0 +1,33 @@
+[pq, aa, ad, qv, af, ai, aq, au, rn, rq, ba, bd, bm, sf, sj, sq, sw, tf, tq, db, tr, tt, tu, tw, dg, ua, up, uu, ej, vf, vp, fa, vs, vx, wm, wr, gg, xf, xi, xp, xs, xw, xx, hn, ia, zd, is, it, iv, zk, zl, zm, zr, zs, jg, jm, kd, ke, kn, la, lb, lf, lr, lt, lv, mg, mt, nd, nh, nm, no, nu, nz, oa, oe, of, on, oq, ot, pm]4.269854824935952E-4
+[al, an, aw, be, bi, bo, bq, sb, bs, sl, td, tl, dj, dp, dt, un, uv, vb, vl, vn, vu, we, ft, fu, wf, fv, gs, xg, gx, ie, jl, jt, ng, nq, nr, or, os, pl]8.539709649871904E-4
+[pu, qs, rg, az, rt, rw, br, bt, bx, sr, tg, tk, tv, dn, dz, fn, wa, wd, wn, wp, ws, gf, xv, xz, id, ii, in, jd, js, jv, jz, ks, lp, oi, ou, po]0.0012809564474807857
+[pt, px, qw, qz, bl, si, sz, tp, tz, dv, uw, fg, fw, wo, ga, wt, gt, if, zg, zq, jo, jq, km, lw, mz, ob, oo, pn]0.0017079419299743809
+[pp, pz, rj, rp, rz, bn, tb, uz, ff, fk, fl, gd, gm, jb, zx, kt, og, ov, pa]0.002134927412467976
+[qk, ar, rr, rv, gu, iz, ja, kv, kx, np, nx, od]0.0025619128949615714
+[ql, bb, bv, vw, fp, wv, xl, iq, iu, jj, jr, kf, nw]0.0029888983774551663
+[ps, qj, ag, aj, ak, bf, uj, vj, vo, wb, gq, gr, gz, kr, ok, op]0.0034158838599487617
+[pw, qg, bu, dk, ui, uk, fz, ig, zf, zp, ka, kj, kq, mk, nv]0.003842869342442357
+[sk, vg, vt, fj, wu, go, zj, ku, kz, lj, nb]0.004269854824935952
+[rk, eg, vz, xk]0.004696840307429547
+[tj, ul, wg, gp, il, za]0.005123825789923143
+[xn, kk, oj, ol, pb]0.005550811272416738
+[bg, vv, ww, ib, ij, jf, zv, kl, pg, pj]0.005977796754910333
+[bk, bz, wk, zo, oz]0.0064047822374039285
+[gv, gw, ik, jw]0.006831767719897523
+[ix, ow]0.007258753202391118
+[ju]0.007685738684884714
+[ug, wz, jp, kg]0.008112724167378309
+[bj, kb]0.008539709649871904
+[wj, ki, ni]0.008966695132365499
+[iw]0.009393680614859094
+[kw]0.00982066609735269
+[zw]0.010247651579846286
+[vk, lg]0.01067463706233988
+[zb]0.011101622544833475
+[bw, io, pk]0.01152860802732707
+[jn]0.012382578992314262
+[gi, ji, lz]0.014517506404782237
+[gb, zi, kp]0.015371477369769428
+[ko]0.015798462852263023
+[wl]0.02946199829205807
+[lk]0.03116994022203245
